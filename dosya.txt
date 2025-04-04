@@ -1,8 +1,8 @@
 [
   {
-    "server": "5.35.126.188",
-    "server_port": 972,
-    "password": "e242e2324ccd9246",
+    "server": "92.246.141.65",
+    "server_port": 937,
+    "password": "4ef0a9a7ecec6aed",
     "method": "aes-256-cfb"
   }
 ]
